@@ -1,6 +1,6 @@
 ### Hi there 👋 MY NAME IS RIYA BANSAL.
-I’m a computer science engineer.
-I’m currently pursuing BTECH from CSJM University.
+I am a computer science engineer.
+I am currently pursuing BTECH from CSJM University.
 
 <!--
 **riya1009/riya1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
