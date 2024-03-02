@@ -1,5 +1,5 @@
 ### Hi there 👋 MY NAME IS RIYA BANSAL.
-I am a computer science engineer.
+I am a Computer Science Engineer.
 I am currently pursuing BTECH from CSJM University.
 I have a good knowledge of C++ , DSA and Python.
 
